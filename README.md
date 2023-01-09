@@ -1,3 +1,11 @@
+# React Admin Dashboard
+
+## Installed Libraries
+
+```
+@mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/list @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
