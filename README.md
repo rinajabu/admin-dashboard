@@ -3,7 +3,7 @@
 ## Installed Libraries
 
 ```
-@mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/list @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+@mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar@^0.7.1 formik yup @fullcalendar/list @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
 ```
 
 # Getting Started with Create React App
