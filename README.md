@@ -1,6 +1,20 @@
 # React Admin Dashboard
 
-Admin Dashboard built with React.js and Material UI. Context API used for state management.
+Admin Dashboard built with React.js and Material UI.
+
+## To deploy changes to GitHub Pages
+
+Make an optimized build
+
+```
+npm run predeploy
+```
+
+Deploy optimized build
+
+```
+npm run deploy
+```
 
 ## Installed Libraries
 
